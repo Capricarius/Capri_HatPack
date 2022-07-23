@@ -1,0 +1,35 @@
+{
+	"parent": "minecraft:block/orientable",
+	"textures": {
+	  "top": "minecraft:block/pumpkin_top",
+	  "front": "minecraft:block/carved_pumpkin",
+	  "side": "minecraft:block/pumpkin_side"
+	},
+	  "overrides": [
+	  {"predicate": {"custom_model_data": 1}, "model": "hats/mushroom_hat"},
+	  {"predicate": {"custom_model_data": 2}, "model": "ears/elfears"},
+	  {"predicate": {"custom_model_data": 3}, "model": "hats/capri_hat"},
+	  {"predicate": {"custom_model_data": 4}, "model": "hats/beasthorn"},
+	  {"predicate": {"custom_model_data": 5}, "model": "hats/cowboyhat"},
+	  {"predicate": {"custom_model_data": 6}, "model": "hats/santahat"},
+	  {"predicate": {"custom_model_data": 7}, "model": "hats/strawhat"},
+	  {"predicate": {"custom_model_data": 8}, "model": "hats/crown"},
+	  
+
+
+
+
+
+
+
+
+
+	  
+	  {"predicate": {"custom_model_data": 21}, "model": "eggs/klooegg"},
+	  {"predicate": {"custom_model_data": 22}, "model": "eggs/phantomsegg"},
+	  {"predicate": {"custom_model_data": 23}, "model": "eggs/kingegg"},
+	  {"predicate": {"custom_model_data": 24}, "model": "eggs/sophiesegg"},
+	  {"predicate": {"custom_model_data": 25}, "model": "eggs/gemegg"},
+	  {"predicate": {"custom_model_data": 26}, "model": "eggs/katieegg"}
+	  ]
+  }
