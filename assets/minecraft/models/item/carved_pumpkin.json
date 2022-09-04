@@ -14,9 +14,9 @@
 	  {"predicate": {"custom_model_data": 6}, "model": "hats/santahat"},
 	  {"predicate": {"custom_model_data": 7}, "model": "hats/strawhat"},
 	  {"predicate": {"custom_model_data": 8}, "model": "hats/crown"},
-	  
-
-
+	  {"predicate": {"custom_model_data": 9}, "model": "hats/caprihorn"},
+	  {"predicate": {"custom_model_data": 10}, "model": "hats/sailor_hat"},
+	  {"predicate": {"custom_model_data": 11}, "model": "hats/sunfurhorn"},
 
 
 
