@@ -9,11 +9,7 @@ This is a Minecraft Texture pack which changes the models of items dependant on 
 ## How to use
 1. Get the item you want to change
     + If its a Hat then you need a carved pumpkin
-<<<<<<< Updated upstream
-2. Type in game `/trigger CustomModelData set {data}` - replace {data} with the data number in the table below
-=======
 2. Type in game `/trigger CustomModelData set {data}` - replace {data} with the data number
->>>>>>> Stashed changes
     + Every use of this command costs a level of XP
     + If using a carved pumpkin, make sure not to place it on the floor as it will revert back.
 3. You now have your custom model !
@@ -23,8 +19,7 @@ If I do the following command on a carved pumpkin I will receive the `elfears` h
 - `/trigger CustomModelData set 2` 
 
 # The Models in this Pack
-<<<<<<< Updated upstream
-| Carved Pumpkin |  | Dia/Netherite Axe |  | Dia/Netherite Boots | |
+|  | Carved Pumpkin |  | Dia/Netherite Axe |  | Dia/Netherite Boots |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | Data      | Description | Data | Description | Data      | Description |
 |1 |mushroom_hat |1 | Unassigned |1 | Unassigned |
@@ -86,77 +81,3 @@ If I do the following command on a carved pumpkin I will receive the `elfears` h
 |3 |Unassigned |3 | Unassigned |3 | Unassigned |
 |4 |Unassigned |4 | Unassigned |4 | Unassigned |
 |5 |Unassigned |5 | Unassigned |5 | Unassigned |
-=======
-## Carved Pumpkin:
-1. mushroom_hat
-2. elfears
-3. capri_hat
-4. beasthorn
-5. cowboyhat
-6. santahat
-7. strawhat
-8. crown
-9. caprihorn
-10. sailor_hat
-11. sunfurhorn
-12. 
-13. 
-14. 
-15. 
-16. 
-17. 
-18. 
-19. 
-20. 
-21. klooegg
-22. phantomsegg
-23. kingegg
-24. sophiesegg
-25. gemegg
-26. katieegg
-
-## Diamond/Netherite Axe
-1. 
-2. 
-
-## Diamond/Netherite Boots
-1. 
-2. 
-
-## Diamond/Netherite Chestplate
-1. 
-2. 
-
-## Diamond/Netherite Helmet
-1. 
-2. 
-
-## Diamond/Netherite Hoe
-1. 
-2. 
-
-## Diamond/Netherite Leggings
-1. 
-2. 
-
-## Diamond/Netherite Pickaxe
-1. 
-2. 
-
-## Diamond/Netherite Shovel
-1. 
-2. 
-
-## Diamond/Netherite Sword
-1. 
-2. 
-
-## Elytra
-1. 
-2. 
-
-## Trident
-1. 
-2. 
-
->>>>>>> Stashed changes
